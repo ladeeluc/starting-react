@@ -1,10 +1,7 @@
 {
-  "dependencies": {
-    "create-react-app": "^4.0.3"
-  },
-  "name": "react_cal_class_based'",
+  "name": "react_cal_class_based",
   "version": "1.0.0",
-  "description": "tech interview practice",
+  "description": "practice for tech interview",
   "main": "index.js",
   "repository": "https://github.com/ladeeluc/react_cal_class_based",
   "author": "Ladeeluc <laura.hatch.lh@gmail.com>",
